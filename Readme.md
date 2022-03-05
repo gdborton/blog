@@ -1,4 +1,4 @@
-# Blog
+# bBlog
 
 This is the blog that powers `rauchg.com`, built on
 [next.js](https://nextjs.org/) and
